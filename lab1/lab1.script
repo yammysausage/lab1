@@ -1,0 +1,33 @@
+命令稿啟動於 2018年03月16日 上午 02:35:40
+]0;~
+[32mUSER@DESKTOP-J9UKN51 [33m~[0m
+$ whoami;pwd
+USER
+/home/USER
+]0;~
+[32mUSER@DESKTOP-J9UKN51 [33m~[0m
+$ git config-l
+git: 'config-l' is not a git command. See 'git --help'.
+]0;~
+[32mUSER@DESKTOP-J9UKN51 [33m~[0m
+$ git config [C-l
+user.email=a0965036161@gmail.com
+user.name=yammysausage
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/yammysausage/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;~
+[32mUSER@DESKTOP-J9UKN51 [33m~[0m
+$ git clone https://github.com/yammysausage/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mUSER@DESKTOP-J9UKN51 [33m~[0m
+$ exit
+
+命令稿已於 2018年03月16日 上午 02:37:44
+ 完成
